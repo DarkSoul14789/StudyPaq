@@ -14,7 +14,7 @@
 
 ## Interview assignment edit:
 ### Frontend:
-To change the api limit, simply put the number in the input field
+To change the api limit, simply put the number in the input field and press enter
 You can view the object received from the server in the console
 
 ### Server:
