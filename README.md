@@ -9,8 +9,8 @@
 # Setting up the client:
 1) cd ..
 2) cd client
-3) ```npm run dev```
-4) install required dependencies ```npm i```
+3) install required dependencies ```npm i```
+4) ```npm run dev```
 5) If everything is correctly followed, you will see an image gallery of photos which were provided by the server
 
 ## Interview assignment edit:
